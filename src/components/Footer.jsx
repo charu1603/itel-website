@@ -102,10 +102,12 @@ const Footer = () => {
     </div>
     {/* Footer Links */}
     <div className="border-t border-gray-700 bg-[#1E1E1E] p-4">
-      <div className="flex justify-between text-sm">
-        {footerData?.footerLinks?.map((link, idx) => (
-          <a key={idx} href="#" className="text-[#A3A89F]">{link}</a>
-        ))}
+      <div className="flex  justify-center gap-4 text-sm">
+        
+          <p className="text-[#A3A89F] hidden md:flex">All rights reserved</p>
+          <p className="text-[#A3A89F]">Privacy Policy</p>
+          <p className="text-[#A3A89F]">Terms of service</p>
+       
       </div>
     </div>
   </footer>

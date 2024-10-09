@@ -33,6 +33,7 @@ export const footerData = {
       "email": "info.in@transsion.com"
     },
     "footerLinks": [
+       
       "Privacy policy",
       "Terms of service"
     ]
