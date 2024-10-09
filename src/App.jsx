@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './components/navbar';
-import SubNavBar from './components/subNavbar';
+import SubNavBar from './components/Header';
 import Hero from './components/Hero';
 import Blogs from './components/Blogs';
 import Footer from './components/Footer';

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SubNavBar = () => {
+const Header = () => {
   return (
     <div className="bg-[#1F1F1F] text-white flex justify-center py-3 hidden lg:flex">
       <ul className="flex space-x-8 text-sm">
@@ -31,4 +31,4 @@ const SubNavBar = () => {
   );
 };
 
-export default SubNavBar;
+export default Header;
