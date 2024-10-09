@@ -1,7 +1,7 @@
 import React from 'react'
 import { FiAlignJustify } from "react-icons/fi";
 import { GoSearch } from "react-icons/go"; 
-import { FaPhoneAlt, FaMapMarkerAlt } from 'react-icons/fa'; // Assuming you're using react-icons
+import { FaPhoneAlt, FaMapMarkerAlt } from 'react-icons/fa';
 
 import logo from '/assets/logo.png';
 const navbar = () => {
